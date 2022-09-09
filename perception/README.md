@@ -13,7 +13,11 @@
 
 The image my program produces gets saved in the same directory that the program is run in, titled "answer.png." I just renamed the original answer.png to sampleAnswer.png
 
-Link to it here.
+Link to it [here](https://github.com/noahlessard/Wisconsin-Autonomous-Perception-Coding-Challenge/blob/main/perception/answer.png).
+
+If you want to run the python code yourself, install the librarys and run
+
+'''python3 detect.py'''
 
 ## Methodology
 
